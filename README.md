@@ -99,7 +99,6 @@ MOES-DIGITIZE SCHOOLS/
 
 If you have any questions or feedback, feel free to reach out:
 
-- **BONGOMIN ERICK JUMA**  
-- **Email**: ericbongomin@gmail.com  
-- **GitHub**: [BongominErickJuma](https://github.com/your-username)
-
+- **BONGOMIN ERICK JUMA**
+- **Email**: ericbongomin@gmail.com
+- **GitHub**: [BongominErickJuma](https://github.com/BongominErickJuma)

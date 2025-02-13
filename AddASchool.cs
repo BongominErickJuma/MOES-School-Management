@@ -17,7 +17,7 @@ namespace MOES_Digitize_Schools
                 Console.WriteLine("Enter Level of School (Nursary, Primary, Secondary)");
                 string level = Console.ReadLine();
 
-                Console.WriteLine("Enter School Password");
+                Console.WriteLine("Create School Login Password");
                 string password = Console.ReadLine();
 
                 schools.Add(new School
